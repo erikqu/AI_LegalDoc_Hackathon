@@ -12,7 +12,7 @@
 
 ###### Instructions 
 
-Final submission can be found in "orig_make_preds.ipynb".
+Final submission can be found in "Make_Final_Predictions.ipynb".
 
 This file parses the data, loads the features, our model, and outputs the predictions.  
 
